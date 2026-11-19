@@ -188,7 +188,7 @@ It asks whether we can leave those who come after us enough **dignity, freedom, 
 
 The public **Test GFAR³** is intended to capture more than whether something passed or failed. It should surface where GFAR³ works, where it fails, what it misses, what assumptions are wrong, what safeguards are necessary or unnecessary, what alternatives deserve consideration, what evidence would change the conclusion, and what GFAR³ itself should change.
 
-**Public Test:** `Test GFAR³ — Public Testing Candidate 1`
+**Public Test:** [Test GFAR³ — Public Testing Candidate 1](https://docs.google.com/forms/d/e/1FAIpQLSfjee5W86khkJ9nbRRoc47p5uM5jiJ2cQXPH_CyBn5iFkcfPA/viewform?usp=publish-editor)
 
 The public testing form is now available through the link above.
 
